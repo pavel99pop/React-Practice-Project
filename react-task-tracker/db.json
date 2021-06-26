@@ -7,10 +7,10 @@
       "reminder": true
     },
     {
-      "text": "Flight",
-      "day": "Saturday",
-      "reminder": true,
-      "id": 3
+      "text": "Birthday",
+      "day": "Friday",
+      "reminder": false,
+      "id": 2
     }
   ]
 }
